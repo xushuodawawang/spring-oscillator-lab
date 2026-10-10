@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.streamlit/secrets.toml
+.env
+.env.*
+.playwright-mcp/
+.pytest_cache/
+.coverage
+*.log

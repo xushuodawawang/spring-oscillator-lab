@@ -1,0 +1,36 @@
+{
+  "origin": {
+    "x": 35.0,
+    "y": 133.0
+  },
+  "x_point": {
+    "x": 1180.0,
+    "y": 133.0
+  },
+  "y_point": {
+    "x": 35.0,
+    "y": 43.0
+  },
+  "fourth_point": null,
+  "t0": 0.0,
+  "y0": 0.0,
+  "x_value": 5.0,
+  "y_value": 1.0,
+  "unit": "纵轴单位",
+  "roi": [
+    36.0,
+    15.0,
+    1180.0,
+    253.0
+  ],
+  "h_low": 140,
+  "h_high": 179,
+  "s_min": 55,
+  "v_min": 50,
+  "min_component": 10,
+  "max_gap": 8,
+  "smooth_window": 9,
+  "min_extrema_spacing": 0.25,
+  "prominence": 0.08,
+  "include_offset": false
+}
